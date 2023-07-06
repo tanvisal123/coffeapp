@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Imag":   "lib/Assets/cappucino.jpg",
+        "Title":  "Cappucino",
+        "Details": "Lorem Ipsum is simply dummy text ",
+        "Price":  50
+        
+    },
+    {
+        "id": 2,
+        "Imag":   "lib/Assets/Coffee2.jpg",
+        "Title":  "Freddo Cappucino",
+        "Details": "Lorem Ipsum is simply dummy text",
+        "Price":  80
+    
+    },
+    {
+        "id": 3,
+        "Imag":   "lib/Assets/Ice Coffee.jpg",
+        "Title":  "Iced Cappucino",
+        "Details": "Lorem Ipsum is simply dummy text",
+        "Price":  100
+      
+    }
+]
