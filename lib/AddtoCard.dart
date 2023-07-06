@@ -76,7 +76,7 @@ class CardList extends StatelessWidget {
                                     height: 1.2.h,
                                   ),
                                   TextFile(
-                                      text: "Quantity: ${currentItem.quantity}", textsize: 14.sp,
+                                      text: "Quantitysadsadsadsdsdasda: ${currentItem.quantity}", textsize: 14.sp,
                                       textweight: FontWeight.normal, Color: Colors.white),
                                   SizedBox(
                                     height: 1.2.h,
